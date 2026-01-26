@@ -70,7 +70,7 @@ ________________________________________
 This analysis clearly shows behavioral differences between casual riders and members. By leveraging these insights, Cyclistic can design targeted marketing strategies to increase annual memberships and overall revenue.
 
 # Author
-Raj
+Raj Roshan
 Aspiring Data Analyst | SQL | R | Excel | Python
 ________________________________________
 
